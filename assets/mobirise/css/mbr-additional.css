@@ -2153,31 +2153,8 @@ body {
 .cid-qIeeKop6hE .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qIey0v1FDi {
-  background-image: url("../../../assets/images/03.jpg");
-}
-.cid-qIey0v1FDi .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-qIey0v1FDi .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-qIey0v1FDi .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-qIey0v1FDi .mbr-text {
-  color: #ffffff;
-}
-.cid-qIey0v1FDi .card {
-  padding-bottom: 1.5rem;
+.cid-qIgFX6VHaT {
+  background: linear-gradient(45deg, #7fd9fc, #6576aa);
 }
 .cid-qIeeKop6hE .navbar {
   padding: .5rem 0;
