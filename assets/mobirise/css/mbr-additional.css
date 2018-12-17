@@ -1762,10 +1762,14 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qIexbO6WWZ {
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-qIexbO6WWZ H1 {
-  color: #ffffff;
+  color: #232323;
+}
+.cid-qIexbO6WWZ .mbr-text,
+.cid-qIexbO6WWZ .mbr-section-btn {
+  color: #232323;
 }
 .cid-qIeeKop6hE .navbar {
   padding: .5rem 0;
